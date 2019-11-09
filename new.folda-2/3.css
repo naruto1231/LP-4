@@ -1,0 +1,164 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	text-align: center;
+	background:#E3DBDB;
+}
+.wrapper{
+	width:1200px;
+	margin:0 auto;
+}
+
+.navi{
+	
+  
+	border-radius: 5px;
+	padding: 5px;
+	float: left;
+	width: 1200px;
+	}
+	
+	.navi p{
+		font-size:20px;
+	display: inline-block;
+	margin-left: 20px;
+	float: right;
+	 margin-right:30px;
+	
+	
+}
+
+.main-box{
+	width: 1200px;
+}
+
+
+
+.ariticl{
+	
+width: 800px;
+	display:inline-block;
+	float:left;
+	
+}
+.ariticl-1{
+	
+	display:inline-block;
+	float:left;
+	margin-top:10px;
+	font-size:15px;
+}
+.ariticl-1 p{
+	font-size:20px;
+}
+.ariticl p{
+	float:left;
+	
+}
+.ariticl h2{
+	color:dodgerblue;
+	float:left;
+	margin-left:300px;
+}
+.ariticl span{
+	display:inline-block;
+	vertical-align: middle;
+}
+.main h3{
+	float:left;
+	width: 800px;
+font-size:25px; 
+}
+.main span{
+	vertical-align:middle;
+	display:inline-block;
+}
+.main h3{
+	margin-top:60px;
+	display: inline-block;
+}
+.map{
+	float:left;
+    width: 800px;
+	height:600px;
+}
+
+.main-2{
+	width: 1200px;
+}	
+.aside{
+	float:right;
+	width:350px; 
+    margin-top:60px;
+	
+}
+.rogo-2{
+	margin-top: 20px;
+	text-align:center;
+	display: inline-block;
+}
+
+.rogo-3{
+	margin-top: 20px;
+	text-align:center;
+	display: inline-block;
+}
+.rogo-4{
+	margin-top: 20px;
+	text-align:center;
+	display: inline-block;
+	
+}
+.rogo-5{
+	margin-top: 20px;
+	text-align:center;
+	display: inline-block;
+}
+.sub-1{
+	float:left;
+	width:600px;
+}
+
+
+.sub-1 h3{
+color: aqua;
+font-size:25px;
+	display: inline-block;
+	margin-top: 30px;
+}
+.sub-1 h4{
+	color: aqua;
+font-size:25px;
+	
+}
+
+
+
+.sub-1 span{
+	vertical-align: middle;
+	display: inline-block;
+	
+}
+.sub-2{
+	width:500px;
+	float:right;
+	margin-top:90px;
+	
+}
+
+.sub-2 span{
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.sub-2 h2{
+	color: darkorange;
+	display: inline-block;
+	
+	
+}
+.sub-2 h3{
+	color: darkorange;
+	display: inline-block;
+	margin-top: 50px;
+}
