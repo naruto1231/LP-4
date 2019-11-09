@@ -1,0 +1,207 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	text-align: center;
+	background:#E3DBDB;
+}
+.wrappaer{
+	margin:0 auto;
+	width:1200px;
+	
+	
+}
+.header{
+	width:1200px;
+	margin-left:20px;
+	
+}
+
+.navi{
+
+    
+	border-radius: 5px;
+	padding: 5px;
+	float: left;
+	width: 1200px;
+    
+	
+    
+	
+}
+.navi-1 p{
+	font-size:20px;
+	display: inline-block;
+	margin-left: 20px;
+	float: right;
+    vertical-align: center;
+	 margin-right:30px;
+	margin-top: 20px;
+}
+
+
+
+	
+	
+
+.ariticl{
+	margin-left: 30px;
+	display:inline-block;
+	float:left;
+	margin-top: 10px;
+	
+
+}
+.ariticl p{
+font-size:20px;
+	margin-top: 10px;
+	display: inline-block;
+}
+.ariticl h2{
+	color:dodgerblue;
+	
+}
+
+
+.ariticl-2{
+	width: 1200px;
+	display:inline-block;
+	
+	font-size: 3;
+}
+.ariticl-3{
+	width: 740px;
+	display:inline-block;
+	float:left;
+	font-size: 3;
+	margin-left:10px;
+}
+
+.ariticl-4{
+	width: 740px;
+	display:inline-block;
+	margin-left:10px;
+	font-size: 3;
+	float:left;
+	
+}
+.ariticl-5{
+	width: 740px;
+	display:inline-block;
+	margin-left:10px;
+	font-size: 3;
+	float:left;
+}
+
+
+.main{
+		float: left;
+	width:1200px;
+	
+}
+.sub-1{
+float:left;
+	width: 750px;
+	border: solid 1px ;
+	padding: 20px;
+	margin-top: 20px;
+	background:white;
+	margin-bottom: 50px;
+}
+.sub-1 span{
+	display: inline-block;
+	vertical-align:middle;
+}
+
+
+ 
+.rol{
+	display: inline-block;
+	margin-bottom:20px;
+}
+
+
+
+
+.sub-2{
+margin-top: 50px;
+float:left;
+	width: 700px;
+	margin-left:10px;
+	border: solid 1px ;
+	padding: 20px;
+	background:white;
+	margin-bottom: 50px;
+}
+.sub-2 span{
+	display:inline-block;
+	vertical-align: middle;
+}
+	
+
+
+.aside{
+	float:right;
+	width:350px;
+	
+	
+	
+}
+
+
+.aside img{
+	display:block;
+}
+.rogo-1{
+	display: inline-block;
+}
+.rogo-2{
+	margin-top: 20px;
+	text-align:center;
+	display: inline-block;
+}
+.rogo-3{
+	margin-top: 20px;
+	display: inline-block;
+}
+.rogo-4{
+	
+	display: inline-block;
+	
+}
+.rogo-5{
+	margin-top: 20px;
+	display: inline-block;
+}
+.sub-3{
+float:left;
+	width: 700px;
+	margin-left:10px;
+	border: solid 1px ;
+	padding: 20px;
+	margin-top: 50px;
+	background:white;
+	margin-bottom: 50px;
+}
+.sub-3 span{
+	display: inline-block;
+	vertical-align: middle; 
+	
+}
+
+
+
+
+.sub-4{
+margin-top: 50px;
+float:left;
+	width: 700px;
+	margin-left:10px;
+	border: solid 1px ;
+	padding: 20px;
+	background:white;
+}
+.sub-4 span{
+	display:inline-block;
+	vertical-align: middle;
+}
+
