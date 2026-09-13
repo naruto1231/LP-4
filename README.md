@@ -28,3 +28,5 @@ GitHub Pages でホスティングしています。
 ライセンス
 
 特に指定なし
+
+https://naruto1231.github.io/LP-4/
